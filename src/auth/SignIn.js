@@ -91,7 +91,7 @@ class SignIn extends Component<{}> {
         <Text style={[styles.errorMessage, signInError && { color: 'black' }]}>{signInErrorMessage}</Text>
         {
           showSignInConfirmationModal && (
-            <Modal>
+            <Modal onRequestClose={()=>{}} >
               <View style={styles.modal}>
                 <Input
                   placeholder="Authorization Code"

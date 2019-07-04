@@ -16,6 +16,10 @@ import { logOut } from '../actions'
 import { colors, fonts } from '../theme'
 const { width, height } = Dimensions.get('window')
 
+import { AsyncStorage } from "react-native";
+export const USER_TOKEN = "auth-key-token";
+
+
 class Home extends React.Component {
   static navigationOptions = {
     header: null
@@ -29,6 +33,10 @@ class Home extends React.Component {
   }
   logout() {
     console.log ("Log out logic goes here")
+
+    AsyncStorage.removeItem(USER_TOKEN);
+    this.props.dispatchLogout()
+
     /*Auth.signOut()
       .then(() => {
         this.props.dispatchLogout()

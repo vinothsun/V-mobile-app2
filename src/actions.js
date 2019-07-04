@@ -17,6 +17,10 @@ import {
 } from './reducers/auth'
 
 import { Alert } from 'react-native'
+import { AsyncStorage } from "react-native";
+
+
+export const USER_TOKEN = "auth-key-token";
 
 function signUp() {
   return {
@@ -100,6 +104,9 @@ export function authenticate(username, password) {
     let user = "test"
     dispatch(logInSuccess(user))
     dispatch(showSignInConfirmationModal())
+
+    console.log ("Authenticated ")
+    AsyncStorage.setItem(USER_TOKEN, "123456");
 
     /*Auth.signIn(username, password)
       .then(user => {
