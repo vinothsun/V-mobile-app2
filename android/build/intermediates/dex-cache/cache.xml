@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/0d87b6c95de7a31de5ed2515b7ced1c8a451a78b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_fdb215008cbadc05c5da06c6abbde3c7552e4aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/531820e04f9796db6b1bd0ed9276933473e72d74/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_bb4939cb21cd31c5ce92cb511fb6d6503d917618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/b08b847a79060d9c74d16acd1c28298126e9feed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_b6fba38b9f58637fab7a3371128fc5be0a9b6170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_770a3ad242534b2bbf57ca63b3a270374cd66320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/647f6151cce206def0b03ad6f05183302e58af42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_b0e717686066874106565f42544f9db0ebebc20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/531820e04f9796db6b1bd0ed9276933473e72d74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_f1b4f9e0d916cf38b58548e1e0f4ca6d1446f16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/31ec21f07d5a62a65b96eae9915482df71a4a736/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a62eec3abda6deebbcd1581c87d3ddd6ee7daf47">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_aed92d1f6201e0b66108cd080769d3f5fe8a7eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/73b7229772a2f929993dd1dea4e85f6d2964098c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_e33c328c3b0c6f932008db2fa1a7d7c3ed649764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b190c7129effa9833ca4efabf7b37a61204417c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/04e5cefb139eff4bf2637a5cd209da27de5b48a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_5c5d8d2887296de75c37499593dce94360756319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_03abd470709e74a30e4796acb95f150fde3ce8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/c0b0ffd42c73e4054ebeacf7b044a613685ab537/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_e11bf7990428b12debd6c730a3302dee115ba7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/8cdb6118385772e9db384c75dddf7b0a0a757d96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_c503eff2671d7a30834ae41ae7159852c92ea1d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/cbc8b6c03088abf37faeda2dcbcfc2766f9797f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_8f9a4a07e0674ba5d4cdb171347c12f474165e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7377283dc7da95bfe069d8b6e565e7085c8b01cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/31ec21f07d5a62a65b96eae9915482df71a4a736/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_002ec838a427bdd0bcd3864ca8098b664e208bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5fa2b3dbc9ca90da153f4b2d3682ae087acb5f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.android/build-cache/c17d7c2299b60ff2170cee07d3de157bdf29cfb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/classes_0d844f70b2deaa972c33f4b5923db1a64ab2a42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3db8bbbd84e071d5975cd02e209f8ec254913892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_488a863a06c1dcb4d1567c8191e89bf80565f19f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronaldgeorge/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/ronaldgeorge/reactjs/V-mobile-app2/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e173a0237ec19d88b495d36302734e23d61c2274.jar" />
+    </item>
+
+</items>
